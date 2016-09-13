@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BreadthFinder</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>BreadthFinder</h1>
+    <p>For {{ school }}</p>
+    <p>Welcome {{ name }}</p>
+  </body>
+</html>
